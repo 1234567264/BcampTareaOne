@@ -51,8 +51,8 @@ camino es largo pero vale la pena.
     - Sitio Web desarrollado como parte del curso de **HTML** y **CSS** de **Soy Dalto**
     - Tecnologías: **HTML** y **CSS**. 
     - Es responsive (*mobile first*).
-    - [Repositorio de la Página Web](https://1234567264.github.io/Mi-Portfolio/)
-    - [URL de Mi Primera Página Web](https://1234567264.github.io/WebSite/#portfolio)
+    - [Repositorio de la Página Web]()
+    - [URL de Mi Primera Página Web](https://1234567264.github.io/Mi-Portfolio/)
 
 ---
 
